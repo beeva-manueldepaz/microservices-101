@@ -38,7 +38,7 @@ El código fuente de este proyecto es java. Se usa [Spring boot](https://project
 
 `java -jar target/ari-0.1.0.jar`
 
-#### Acceptance Test
+#### Acceptance Test (otra consola)
 
     cd acceptance-test
     mvn test
